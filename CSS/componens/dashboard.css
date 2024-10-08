@@ -43,5 +43,7 @@
 
 .pro h2{
     width: 40%;
-    
+    color: white;
+    font-weight: 600;
 }
+
