@@ -1,5 +1,5 @@
-@import url('/CSS/componens/main.css');
-@import url('/CSS/componens/glass.css');
-@import url('/CSS/componens/games.css');
-@import url('/CSS/componens/dashboard.css');
-@import url('/CSS/global/boilerplate.css');
+@import url('./componens/main.css');
+@import url('./componens/glass.css');
+@import url('./componens/games.css');
+@import url('./componens/dashboard.css');
+@import url('./global/boilerplate.css');
