@@ -50,7 +50,7 @@ To run the Gamer Dashboard on your local machine:
 
 ## Live Demo 🌐
 
-Check out the live version of the website [here](https://your-website-link.com).
+Check out the live version of the website [here](https://shubiks.github.io/Glass-Design-Website/).
 
 ## Contributing 🤝
 
